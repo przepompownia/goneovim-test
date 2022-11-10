@@ -1,0 +1,12 @@
+[submodule "pack/noice/opt/noice.nvim"]
+	path = pack/noice/opt/noice.nvim
+	url = https://github.com/folke/noice.nvim
+[submodule "pack/noice/opt/nui.nvim"]
+	path = pack/noice/opt/nui.nvim
+	url = https://github.com/MunifTanjim/nui.nvim
+[submodule "pack/noice/opt/nvim-treesitter"]
+	path = pack/noice/opt/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter
+[submodule "pack/noice/opt/nvim-notify"]
+	path = pack/noice/opt/nvim-notify
+	url = https://github.com/rcarriga/nvim-notify
