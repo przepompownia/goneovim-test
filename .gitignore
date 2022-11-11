@@ -5,3 +5,4 @@
 /.config/vim/viminfo
 /.nvimlog
 /tools/
+/Session.vim
