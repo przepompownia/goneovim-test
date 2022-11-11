@@ -32,5 +32,5 @@ configs.phpactor = {
 
 lspconfig.phpactor.setup {
   capabilities = capabilities,
-  -- on_attach = arctgxLsp.onAttach,
+  on_attach = arctgxLsp.onAttach,
 }
