@@ -1,4 +1,5 @@
 /.config/nvim/site/
+/bin/composer
 /.config/nvim/shada/
 /.config/vim/.viminfo
 /.config/vim/viminfo

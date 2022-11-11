@@ -1,6 +1,7 @@
 set updatetime=300
 set number
 set mouse=a
+set termguicolors
 colorscheme darkblue
 
 function! ClosePopupForTab() abort

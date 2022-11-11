@@ -4,6 +4,8 @@ require'nvim-treesitter.configs'.setup {
     'lua',
     'markdown',
     'markdown_inline',
+    'php',
+    'phpdoc',
     'vim',
     'regex',
   },
